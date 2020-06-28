@@ -1,17 +1,17 @@
 # All Supported Indicators and Functions 所有支持的指标和函数
 
-* [Overlap Studies](func_groups/overlap_studies.md)
-* [Momentum Indicators](func_groups/momentum_indicators.md)
-* [Volume Indicators](func_groups/volume_indicators.md)
-* [Volatility Indicators](func_groups/volatility_indicators.md)
-* [Price Transform](func_groups/price_transform.md)
-* [Cycle Indicators](func_groups/cycle_indicators.md)
-* [Pattern Recognition](func_groups/pattern_recognition.md)
-* [Statistic Functions](func_groups/statistic_functions.md)
-* [Math Transform](func_groups/math_transform.md)
-* [Math Operators](func_groups/math_operators.md)
+* [Overlap Studies](func_groups/overlap_studies_重叠研究.md)
+* [Momentum Indicators](func_groups/momentum_indicators_动量指标.md)
+* [Volume Indicators](func_groups/volume_indicators_成交量指标.md)
+* [Volatility Indicators](func_groups/volatility_indicators_波动性指标.md)
+* [Price Transform](func_groups/price_transform_价格指标.md)
+* [Cycle Indicators](func_groups/cycle_indicators_周期指标.md)
+* [Pattern Recognition](func_groups/pattern_recognition_形态识别.md)
+* [Statistic Functions](func_groups/statistic_functions_统计函数.md)
+* [Math Transform](func_groups/math_transform_数学变换.md)
+* [Math Operators](func_groups/math_operators_数学运算符.md)
 
-#### [Overlap Studies](func_groups/overlap_studies.md)
+#### [Overlap Studies](func_groups/overlap_studies_重叠研究.md)
 
 ```
 BBANDS               Bollinger Bands
@@ -33,7 +33,7 @@ TRIMA                Triangular Moving Average
 WMA                  Weighted Moving Average
 ```
 
-#### [Momentum Indicators](func_groups/momentum_indicators.md)
+#### [Momentum Indicators](func_groups/momentum_indicators_动量指标.md)
 
 ```
 ADX                  Average Directional Movement Index
@@ -68,7 +68,7 @@ ULTOSC               Ultimate Oscillator
 WILLR                Williams' %R
 ```
 
-#### [Volume Indicators](func_groups/volume_indicators.md)
+#### [Volume Indicators](func_groups/volume_indicators_成交量指标.md)
 
 ```
 AD                   Chaikin A/D Line
@@ -76,7 +76,7 @@ ADOSC                Chaikin A/D Oscillator
 OBV                  On Balance Volume
 ```
 
-#### [Cycle Indicators](func_groups/cycle_indicators.md)
+#### [Cycle Indicators](func_groups/cycle_indicators_周期指标.md)
 
 ```
 HT_DCPERIOD          Hilbert Transform - Dominant Cycle Period
@@ -86,7 +86,7 @@ HT_SINE              Hilbert Transform - SineWave
 HT_TRENDMODE         Hilbert Transform - Trend vs Cycle Mode
 ```
 
-#### [Price Transform](func_groups/price_transform.md)
+#### [Price Transform](func_groups/price_transform_价格指标.md)
 
 ```
 AVGPRICE             Average Price
@@ -95,7 +95,7 @@ TYPPRICE             Typical Price
 WCLPRICE             Weighted Close Price
 ```
 
-#### [Volatility Indicators](func_groups/volatility_indicators.md)
+#### [Volatility Indicators](func_groups/volatility_indicators_波动性指标.md)
 
 ```
 ATR                  Average True Range
@@ -103,7 +103,7 @@ NATR                 Normalized Average True Range
 TRANGE               True Range
 ```
 
-#### [Pattern Recognition](func_groups/pattern_recognition.md)
+#### [Pattern Recognition](func_groups/pattern_recognition_形态指标.md)
 
 ```
 CDL2CROWS            Two Crows
@@ -169,7 +169,7 @@ CDLUPSIDEGAP2CROWS   Upside Gap Two Crows
 CDLXSIDEGAP3METHODS  Upside/Downside Gap Three Methods
 ```
 
-#### [Statistic Functions](func_groups/statistic_functions.md)
+#### [Statistic Functions](func_groups/statistic_functions_统计函数.md)
 
 ```
 BETA                 Beta
@@ -183,7 +183,7 @@ TSF                  Time Series Forecast
 VAR                  Variance
 ```
 
-#### [Math Transform](func_groups/math_transform.md)
+#### [Math Transform](func_groups/math_transform_数学变换.md)
 
 ```
 ACOS                 Vector Trigonometric ACos
@@ -203,7 +203,7 @@ TAN                  Vector Trigonometric Tan
 TANH                 Vector Trigonometric Tanh
 ```
 
-#### [Math Operators](func_groups/math_operators.md)
+#### [Math Operators](func_groups/math_operators_数学运算符.md)
 
 ```
 ADD                  Vector Arithmetic Add
